@@ -1,0 +1,4 @@
+# English translations
+msgid "Hello, World!"
+msgstr "Hello, World!"  # English translation is the same as the original
+

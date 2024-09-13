@@ -1,0 +1,4 @@
+# French translations
+msgid "Hello, World!"
+msgstr "Bonjour, le monde!"
+
