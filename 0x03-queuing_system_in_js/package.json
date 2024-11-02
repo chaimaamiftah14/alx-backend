@@ -1,0 +1,12 @@
+{
+  "name": "0x03-queuing_system_in_js",
+  "version": "1.0.0",
+  "description": "Queuing system in Javascript",
+  "main": "0-redis_client.js",
+  "scripts": {
+    "test": "queuring system in javascript"
+  },
+  "author": "",
+  "license": "ISC",
+  "keywords": []
+}
